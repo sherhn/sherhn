@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Compressify](https://compressify.pro)
 
-- 🌱 I’m currently learning **FastAPI**<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="20" height="20" /></a>
+- 🌱 I’m currently learning **FastAPI **<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="16" height="16" /></a>
 
 - 📫 How to reach me **sherhn.inc@gmail.com**
 
