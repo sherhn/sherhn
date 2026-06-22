@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sherhn</h1>
 <h3 align="center">A backend developer</h3>
 
-- 🔭 I’m currently working on [Compressify](https://compressify.pro)
+- 🔭 I’m currently working on [Compressify](https://compressify.pro) and Nodle
 
 - 🌱 I’m currently learning **FastAPI** <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="16" height="16" /></a>
 
