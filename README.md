@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI** <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="16" height="16" /></a>
 
-- 📫 How to reach me **me@compressify.pro**
+- 📫 How to reach me **Github**
 
 <p align="left">
 </p>
