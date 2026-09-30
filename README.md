@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sherhn</h1>
-<h3 align="center">A human</h3>
+<h3 align="center">За окном греет солнышко а наш батракан колупает циферки в конторке...</h3>
 
 - 🔭 I’m currently working on [Compressify](https://compressify.pro) and Nodle
 
